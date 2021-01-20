@@ -3,7 +3,7 @@ I'm Derek a software developer and researcher in management science and finance.
 
 - 🧭 Founder at [@firmai](https://github.com/firmai) 
 
-- 🌐 Everything here is available under the [Unlicensed](https://unlicense.org/)
+- 🌐 Everything here is available under [Unlicense](https://unlicense.org/)
 
 - 👥 Core team member at [@alan-turing-institute](https://github.com/alan-turing-institute)
 
