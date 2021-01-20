@@ -1,9 +1,9 @@
 ### Hi there 👋
 I'm Derek a software developer and researcher in management sciences and finance.
 
-- 🧭 Founder at [@firmai](https://github.com/firmai) 
-
 - 👥 Core team member at [@alan-turing-institute](https://github.com/alan-turing-institute)
+
+- 🧭 Founder of the [@firmai](https://github.com/firmai) open-source project
 
 <!--- - 👁️ Advisor at ... --->
 
