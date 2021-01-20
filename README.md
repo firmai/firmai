@@ -1,6 +1,8 @@
 ### Hi there 👋
 
--> I write at [the parlour](https://theparlour.substack.com/)
+()             ____    _       
+[]  write  at   L|he  |[|)arlour](https://theparlour.substack.com/)
+                      L|       
 
 
 
