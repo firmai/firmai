@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Derek a software developer and researcher in management science and finance. 
+I'm Derek a software developer and researcher. 
 
 - 🧭 Founder at [@firmai](https://github.com/firmai) 
 
