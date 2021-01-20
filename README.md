@@ -5,7 +5,7 @@ I'm Derek a software developer and researcher in management science and finance.
 
 - 👥 Core team member at [@alan-turing-institute](https://github.com/alan-turing-institute)
 
-- 👁️ Advisor at ...
+<!--- - 👁️ Advisor at ... --->
 
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/3ZNzb8gi)
 [![Years Badge](https://badges.pufler.dev/years/firmai)](https://badges.pufler.dev)
