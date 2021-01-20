@@ -8,7 +8,7 @@ I'm Derek a software developer and researcher in management science and finance.
 - 👁️ Advisor at ...
 
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/3ZNzb8gi)
-  [![Visits](https://komarev.com/ghpvc/?username=firmai&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/firmai)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffirmai&count_bg=%232863A9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=daily%2Ftotal+github+visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [..    .-- .-. .. - .    .- -    - .... .    .--. .- .-. .-.. --- ..- .-.](https://theparlour.substack.com/)
                             
