@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-()             ____    _       
-[]  write  at   L|he  |[|)arlour](https://theparlour.substack.com/)
-                      L|       
+[..    .-- .-. .. - .    .- -    - .... .    .--. .- .-. .-.. --- ..- .-.](https://theparlour.substack.com/)
+                            
 
 
 
