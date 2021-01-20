@@ -9,7 +9,7 @@ I'm Derek a software developer and researcher in management sciences and finance
 
 <!--- - 👁️ Advisor at ... --->
 
-Previously [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3160654), now [Substack](https://theparlour.substack.com/). 
+ 
 
 [..    .-- .-. .. - .    .- -    - .... .    .--. .- .-. .-.. --- ..- .-.](https://theparlour.substack.com/)
 
@@ -18,6 +18,8 @@ Previously [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=31606
 [![Repos Badge](https://badges.pufler.dev/repos/firmai)](https://badges.pufler.dev)
 
 Everything here is available under [Unlicense](https://unlicense.org/)
+
+Previously [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3160654), now [Substack](https://theparlour.substack.com/).
                             
 
 
