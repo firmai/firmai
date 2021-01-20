@@ -7,16 +7,15 @@ I'm Derek, a software developer and machine learning researcher in management sc
 
 - 🦌 GitAwards [top 100](http://git-awards.com/users?language=jupyter_notebook) for Jupyter Notebooks
 
+
+[..    .-- .-. .. - .    .- -    - .... .    .--. .- .-. .-.. --- ..- .-.](https://theparlour.substack.com/)
+
 Working on: 
  - synthetic data generation, asset management, agent-based simulators, customer vulnerability, fraud detection, and network generation using machine learning; with
  - the office of national statistics, various financial market authorities, british government departments, and multinational investment banks. 
 
 
 <!--- - 👁️ Advisor at ... --->
-
- 
-
-[..    .-- .-. .. - .    .- -    - .... .    .--. .- .-. .-.. --- ..- .-.](https://theparlour.substack.com/)
 
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/3ZNzb8gi)
 [![Years Badge](https://badges.pufler.dev/years/firmai)](https://badges.pufler.dev)
