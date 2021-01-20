@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Derek a software developer and researcher in management sciences and finance.
+I'm Derek, a software developer and researcher in management sciences and finance.
 
 - 👥 Core team member at [@alan-turing-institute](https://github.com/alan-turing-institute)
 
