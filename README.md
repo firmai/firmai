@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Derek, a software developer and researcher in management sciences and finance.
+I'm Derek, a software developer and machine learning researcher in management sciences and finance.
 
 - 👥 Core team member at [@alan-turing-institute](https://github.com/alan-turing-institute)
 
@@ -7,8 +7,8 @@ I'm Derek, a software developer and researcher in management sciences and financ
 
 - 🦌 GitAwards [top 100](http://git-awards.com/users?language=jupyter_notebook) for Jupyter Notebooks
 
-Currently working as a machine learning associate on: 
- - Synthetic data generation, asset management, and agent-based simulators, customer vulnerability, fraud detection, and network generation; with
+Currently working on: 
+ - Synthetic data generation, asset management, agent-based simulators, customer vulnerability, fraud detection, and network generation using machine learning; in partnership with
  - Multinational investment banks, the office of national statistics, and various financial market authorities.
 
 
