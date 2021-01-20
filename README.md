@@ -5,6 +5,8 @@ I'm Derek a software developer and researcher in management sciences and finance
 
 - 🧭 Founder of the [@firmai](https://github.com/firmai) open-source project
 
+- 🦌 GitAwards [top 100](http://git-awards.com/users?language=jupyter_notebook) for Jupyter Notebooks
+
 <!--- - 👁️ Advisor at ... --->
 
 Previously [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3160654), now [Substack](https://theparlour.substack.com/). 
