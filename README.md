@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I write at [the parlour](https://theparlour.substack.com/)
+-> I write at [the parlour](https://theparlour.substack.com/)
 
 
 
