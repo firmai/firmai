@@ -8,8 +8,8 @@ I'm Derek, a software developer and researcher in management sciences and financ
 - 🦌 GitAwards [top 100](http://git-awards.com/users?language=jupyter_notebook) for Jupyter Notebooks
 
 Currently: 
-
-Machine learning projects in customer vulnerability, fraud detection, network generation, synthetic data generation, asset management, and agent-based simulators at multinational investment banks, the office of national statistics, and various financial market authorities. 
+ - Working with multinational investment banks, the office of national statistics, and various financial market authorities.
+ - Machine learning projects on customer vulnerability, fraud detection, network generation, synthetic data generation, asset management, and agent-based simulators.
 
 <!--- - 👁️ Advisor at ... --->
 
