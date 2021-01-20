@@ -13,7 +13,7 @@ I'm Derek a software developer and researcher in management science and finance.
 
 [..    .-- .-. .. - .    .- -    - .... .    .--. .- .-. .-.. --- ..- .-.](https://theparlour.substack.com/)
 
-🌐 Everything here is available under [Unlicense](https://unlicense.org/)
+Everything here is available under [Unlicense](https://unlicense.org/)
                             
 
 
