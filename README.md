@@ -10,8 +10,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
 
 [..    .-- .-. .. - .    .- -    - .... .    .--. .- .-. .-.. --- ..- .-.](https://theparlour.substack.com/)
 
-Working on: 
- - synthetic data generation, asset management, agent-based simulators, customer vulnerability, fraud detection, and network generation using machine learning; with
+ - Working on: synthetic data generation, asset management, agent-based simulators, customer vulnerability, fraud detection, and network generation using machine learning; with
  - the office of national statistics, various financial market authorities, british government departments, and multinational investment banks. 
 
 
