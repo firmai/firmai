@@ -17,10 +17,6 @@ I'm Derek, a software developer and machine learning researcher in management sc
 - Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
 - Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
 - Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://theparlour.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
-<!-- feed start -->
-- Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
-- Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
-- Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://theparlour.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
 <!-- feed end -->
 
   </td>
@@ -39,10 +35,64 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-I Joined Github **3** years ago. Since then I pushed **1764** commits, opened **82** issues, received **12698** stars across **55** personal projects and contributed to **37** public repositories.
+I Joined Github **3** years ago. Since then I pushed **1768** commits, opened **83** issues, received **12698** stars across **55** personal projects and contributed to **38** public repositories.
 
   </td>
   </table>
+  
+  
+
+  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+
+  <br />
+  <table width="100%">
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>🚀 Gitwar</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/Gitwar?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>💸 TradeByte</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TradeByte?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TradeByte?label=javascript&style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TheNodeCourse?style=flat-square"/></td> 
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>🤓 iampavangandhi</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/iampavangandhi?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/iampavangandhi?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/iampavangandhi?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/iampavangandhi?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
+      </tr>
+    </tbody>
+  </table>
+  <br />
+ 
 
 
 <!--- - 👁️ Advisor at ... --->
