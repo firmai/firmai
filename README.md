@@ -18,10 +18,6 @@ I'm Derek, a software developer and machine learning researcher in management sc
 - Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
 - Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
 - Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://theparlour.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
-<!-- feed start -->
-- Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
-- Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
-- Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://theparlour.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
 <!-- feed end -->
 
   </td>
@@ -40,7 +36,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-I Joined Github **3** years ago. Since then I pushed **1826** commits, opened **83** issues, received **12702** stars across **55** personal projects and contributed to **38** public repositories.
+I Joined Github **3** years ago. Since then I pushed **1829** commits, opened **83** issues, received **12702** stars across **55** personal projects and contributed to **38** public repositories.
 
   </td>
   </table>
@@ -56,7 +52,7 @@ Everything listed here is available under [Unlicense](https://unlicense.org/)
 - **MLAM** (7,409 Downloads) — First repository for machine learning in asset management (market data) [[code](https://github.com/firmai/machine-learning-asset-management)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952)]
 
 
-Other packages under this license includes **MTSS-GAN**, the first multivariate conditional time series generator [[code](https://github.com/firmai/machine-learning-asset-management)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952)], **FairPut**, the first FAIR package using LightGBM (mortgage data) [[code](https://github.com/firmai/ml-fairness-framework)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3619715)], and **PandasVault**, an advanced Pandas repository [[code](https://github.com/firmai/pandasvault)]
+Other packages under this license include **MTSS-GAN** [[code](https://github.com/firmai/machine-learning-asset-management)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952)], the first multivariate conditional time series generator, **FairPut** [[code](https://github.com/firmai/ml-fairness-framework)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3619715)], the first FAIR package using LightGBM, and **PandasVault** [[code](https://github.com/firmai/pandasvault)], an advanced Pandas repository.
 
 <!--- - 👁️ Advisor at ... --->
 
