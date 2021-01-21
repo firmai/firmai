@@ -11,8 +11,6 @@ I'm Derek, a software developer and machine learning researcher in management sc
   <td width="50%">
   
 
-[..    .-- .-. .. - .    .- -    - .... .    .--. .- .-. .-.. --- ..- .-.](https://theparlour.substack.com/)
-
 <!-- feed start -->
 - Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
 - Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
@@ -47,7 +45,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
 
 
 
-Everything here is available under [Unlicense](https://unlicense.org/); Previously [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3160654), now [Substack](https://theparlour.substack.com/).
+Everything here is available under [Unlicense](https://unlicense.org/); Previously [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3160654), now [Substack](https://theparlour.substack.com/) [..    .-- .-. .. - .    .- -    - .... .    .--. .- .-. .-.. --- ..- .-.](https://theparlour.substack.com/)
                             
 
 
