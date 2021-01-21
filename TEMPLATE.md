@@ -45,13 +45,6 @@ I Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMIT
   </table>
 
 
-
-
-
- - Currently working on: synthetic data generation, agent-based simulators, asset management, customer vulnerability, fraud detection, and network generation using machine learning; with
- - the office of national statistics, financial market authorities, british government departments, and multinational investment banks. 
-
-
 <!--- - 👁️ Advisor at ... --->
 
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/3ZNzb8gi)
