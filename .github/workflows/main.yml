@@ -6,6 +6,9 @@ on:
   schedule:
     # Once a day at 8 AM
     - cron: 0 8 * * *
+  push:
+  branches:
+    - master
 
 jobs:
   update:
