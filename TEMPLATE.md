@@ -40,6 +40,8 @@ I Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMIT
   </td>
   </table>
 
+[![Downloads](https://static.pepy.tech/personalized-badge/requests?period=total&units=abbreviation&left_color=lightgrey&right_color=grey&left_text=Downloads)](https://pepy.tech/project/requests)
+
 - DeltaPy [2020, Feb] [![Downloads](https://pepy.tech/badge/deltapy)](https://pepy.tech/project/deltapy) - the first Python data augmentation package (applied to stock market data) [code][paper]
 - AtsPy[code][paper], the first automated time series package in Python (applied to alternative data)
 - PandaPy[code][paper], a faster Pandas altenative that mimics ‘Structs’ in the C Language (applied to stock market data)
