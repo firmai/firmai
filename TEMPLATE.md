@@ -50,8 +50,7 @@ Everything here is available under [Unlicense](https://unlicense.org/)
 - **AtsPy** (27,147 Downloads) — First automated time series package in Python (alternative data) [[code](https://github.com/firmai/atspy)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631)]
 - **DataGene** (2,246 Downloads) — First package assessing dataset similarity (market data) [[code](https://github.com/firmai/datagene)][[report](https://ssrn.com/abstract=3619626)]
 - **MLAM** (7,409 Downloads) — First repository for machine learning in asset management (market data) [[code](https://github.com/firmai/machine-learning-asset-management)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952)]
-- **MTSS-GAN** (41 Stars) — First multivariate conditional time series generator (market data) [[code](https://github.com/firmai/mtss-gan)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3616557)]
-- **FairPut** (47 Stars) — First FAIR package using LightGBM (mortgage data) [[code](https://github.com/firmai/ml-fairness-framework)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3619715)]
+
 
 Other packages under this license includes **MTSS-GAN**, the first multivariate conditional time series generator [[code](https://github.com/firmai/machine-learning-asset-management)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952)], **FairPut**, the first FAIR package using LightGBM (mortgage data) [[code](https://github.com/firmai/ml-fairness-framework)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3619715)], and **PandasVault**, an advanced Pandas repository [[code](https://github.com/firmai/pandasvault)]
 
