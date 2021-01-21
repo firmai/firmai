@@ -13,7 +13,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">  
  
- (https://theparlour.substack.com/) [..    .-- .-. .. - .    .- -    - .... .    .--. .- .-. .-.. --- ..- .-.](https://theparlour.substack.com/)
+ [..    .-- .-. .. - .    .- -    - .... .    .--. .- .-. .-.. --- ..- .-.](https://theparlour.substack.com/)
  
  <!-- feed start -->
 - Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
@@ -37,7 +37,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-I Joined Github **3** years ago. Since then I pushed **1801** commits, opened **83** issues, received **12700** stars across **55** personal projects and contributed to **38** public repositories.
+I Joined Github **3** years ago. Since then I pushed **1802** commits, opened **83** issues, received **12701** stars across **55** personal projects and contributed to **38** public repositories.
 
   </td>
   </table>
