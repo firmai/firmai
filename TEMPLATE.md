@@ -45,7 +45,7 @@ I Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMIT
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
 
   <br />
-  <table>
+  <table width="100%">
     <thead align="center">
       <tr border: none;>
         <td><b>💻 Projects</b></td>
