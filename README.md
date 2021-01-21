@@ -1,5 +1,8 @@
 ### Hi there 👋
-I'm Derek, a software developer and machine learning researcher in management sciences and finance. 
+I'm Derek, a software developer and machine learning researcher in management sciences and finance, currently working on:
+
+ - Synthetic data generation, agent-based simulators, asset management, customer vulnerability, fraud detection, and network generation using machine learning; with
+ - The office of national statistics, financial market authorities, British government departments, and multinational investment banks. 
 
 <table width="100%"> 
   <tr>
@@ -43,8 +46,7 @@ I Joined Github **3** years ago. Since then I pushed **1741** commits, opened **
 
 
 
- - Currently working on: synthetic data generation, agent-based simulators, asset management, customer vulnerability, fraud detection, and network generation using machine learning; with
- - the office of national statistics, financial market authorities, british government departments, and multinational investment banks. 
+
 
 
 <!--- - 👁️ Advisor at ... --->
