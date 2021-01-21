@@ -9,6 +9,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
 
   </td>
   <td width="50%">
+  <p>
 <!-- feed start -->
 - Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
 - Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
@@ -16,6 +17,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
 - Jan 08 - [Neural Landscape for Option Modelling](https://theparlour.substack.com/p/neural-landscape-for-option-modelling)
 - Jan 07 - [Deep Generative Models are Privacy Regularisers ](https://theparlour.substack.com/p/deep-generative-models-are-privacy)
 <!-- feed end -->
+  </p>
   </td>
   </table>
 
