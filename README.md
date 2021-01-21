@@ -16,7 +16,6 @@ I'm Derek, a software developer and machine learning researcher in management sc
 - Jan 08 - [Neural Landscape for Option Modelling](https://theparlour.substack.com/p/neural-landscape-for-option-modelling)
 - Jan 07 - [Deep Generative Models are Privacy Regularisers ](https://theparlour.substack.com/p/deep-generative-models-are-privacy)
 <!-- feed end -->
-</p>
   </td>
   </table>
 
