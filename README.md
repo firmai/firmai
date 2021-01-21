@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Derek, a software developer and machine learning researcher in management sciences and finance. 
+I'm Derek, a software developer and machine learning researcher in management sciences and finance
 
 <table width="100%"> 
   <tr>
