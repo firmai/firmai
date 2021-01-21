@@ -11,7 +11,8 @@ I'm Derek, a software developer and machine learning researcher in management sc
   <td width="50%">
   
 
-  
+[..    .-- .-. .. - .    .- -    - .... .    .--. .- .-. .-.. --- ..- .-.](https://theparlour.substack.com/)
+
 <!-- feed start -->
 - Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
 - Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
@@ -33,8 +34,6 @@ I'm Derek, a software developer and machine learning researcher in management sc
 
 - 🦌 GitAwards [top 100](http://git-awards.com/users?language=jupyter_notebook) for Jupyter Notebooks
 
-
-[..    .-- .-. .. - .    .- -    - .... .    .--. .- .-. .-.. --- ..- .-.](https://theparlour.substack.com/)
 
  - Working on: synthetic data generation, agent-based simulators, asset management, customer vulnerability, fraud detection, and network generation using machine learning; with
  - the office of national statistics, financial market authorities, british government departments, and multinational investment banks. 
