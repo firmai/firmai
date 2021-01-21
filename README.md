@@ -35,10 +35,16 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-I Joined Github **3** years ago. Since then I pushed **1794** commits, opened **83** issues, received **12699** stars across **55** personal projects and contributed to **38** public repositories.
+I Joined Github **3** years ago. Since then I pushed **1795** commits, opened **83** issues, received **12699** stars across **55** personal projects and contributed to **38** public repositories.
 
   </td>
   </table>
+  
+| DataGene[code][paper], the first Python package to assess how similar datasets are to one another (applied to stock market data) </br>
+DataGene[code][paper], the first Python package to assess how similar datasets are to one another (applied to stock market data)| [![Downloads](https://static.pepy.tech/personalized-badge/requests?period=total&units=abbreviation&left_color=lightgrey&right_color=grey&left_text=Downloads)](https://pepy.tech/project/requests) </br> [![Downloads](https://static.pepy.tech/personalized-badge/requests?period=total&units=abbreviation&left_color=lightgrey&right_color=grey&left_text=Downloads)](https://pepy.tech/project/requests) |
+|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
 
 | Name     | Date      | Package Downloads                                                                  | Description                            | Applied           | Code | Paper |
 |----------|-----------|------------------------------------------------------------------------------------|----------------------------------------|-------------------|------|-------|
