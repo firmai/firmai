@@ -29,6 +29,7 @@ jobs:
       - uses: sarisia/actions-readme-feed@v1
         with:
           url: 'https://theparlour.substack.com/feed'
+          max_entry: 3
           file: 'TEMPLATE.md'
       - run: |
           git config --global user.name "${{ github.actor }}"
