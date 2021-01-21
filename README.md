@@ -41,8 +41,8 @@ I Joined Github **3** years ago. Since then I pushed **1746** commits, opened **
 
 
 
- - Currently working on: synthetic data generation, agent-based simulators, asset management, customer vulnerability, fraud detection, and network generation using machine learning; with
- - the office of national statistics, financial market authorities, british government departments, and multinational investment banks. 
+ - Currently working on: synthetic data generation, agent-based simulators, and asset management using machine learning; with
+ - The office of national statistics, financial market authorities, british government departments, and multinational investment banks. 
 
 
 <!--- - 👁️ Advisor at ... --->
