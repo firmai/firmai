@@ -36,7 +36,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-I Joined Github **3** years ago. Since then I pushed **1816** commits, opened **83** issues, received **12702** stars across **55** personal projects and contributed to **38** public repositories.
+I Joined Github **3** years ago. Since then I pushed **1817** commits, opened **83** issues, received **12702** stars across **55** personal projects and contributed to **38** public repositories.
 
   </td>
   </table>
@@ -45,13 +45,13 @@ I Joined Github **3** years ago. Since then I pushed **1816** commits, opened **
 
 Everything here is available under [Unlicense](https://unlicense.org/)
 
-- **DeltaPy** (7,409 Downloads) — First Python data augmentation package (market data) [code][paper]
-- **PandaPy** (7,409 Downloads) — Pandas altenative that mimics ‘Structs’ in the C Language (market data) [code][paper]
-- **AtsPy** (7,409 Downloads) — First automated time series package in Python (alternative data) [code][paper]
-- **FairPut** (7,409 Downloads) — First FAIR package using LightGBM (mortgage data) [code][paper]
-- **DataGene** (7,409 Downloads) — First Python package to assess how similar datasets are to one another (market data) [code][paper]
-- **MTSS-GAN** (7,409 Downloads) — First multivariate conditional time series generator (market data) [code][paper]
-- **MLAM** (7,409 Downloads) — First open-source code base for machine learning in asset management (market data) [code][paper]
+- **DeltaPy** (7,409 Downloads) — First Python data augmentation package (market data) [(code)[https://github.com/firmai/deltapy]][(report)[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3582219]]
+- **PandaPy** (7,409 Downloads) — Pandas altenative that mimics ‘Structs’ in the C Language (market data) [code][report]
+- **AtsPy** (7,409 Downloads) — First automated time series package in Python (alternative data) [code][report]
+- **FairPut** (7,409 Downloads) — First FAIR package using LightGBM (mortgage data) [code][report]
+- **DataGene** (7,409 Downloads) — First Python package to assess how similar datasets are to one another (market data) [code][report]
+- **MTSS-GAN** (7,409 Downloads) — First multivariate conditional time series generator (market data) [code][report]
+- **MLAM** (7,409 Downloads) — First open-source code base for machine learning in asset management (market data) [code][report]
 
 
 <!--- - 👁️ Advisor at ... --->
