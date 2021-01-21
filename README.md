@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Derek, a software developer and machine learning researcher in management sciences and finance, currently working on:
 
- - Synthetic data generation, agent-based simulators, and asset management using machine learning; with
+ - Synthetic data generation, agent-based simulators, and asset management using machine learning; with d
  - The office of national statistics, financial market authorities, british government departments, and multinational investment banks. 
 
 <table width="100%"> 
