@@ -15,24 +15,24 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-  
+
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
-  build:
+  update:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
-  steps:
-    - uses: actions/checkout@v2
-    - uses: sarisia/actions-readme-feed@v1
-      with:
-        url: 'https://theparlour.substack.com/feed'
-        file: 'README.md'
-    - run: |
-        git config --global user.name "${{ github.actor }}"
-        git config --global user.email "${{ github.actor }}@users.noreply.github.com"
-        git add .
-        git commit -m "docs: update feed" || true
-        git push
+      # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        with:
+          url: 'https://theparlour.substack.com/feed'
+          file: 'README.md'
+      - run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git add .
+          git commit -m "docs: update feed" || true
+          git push
