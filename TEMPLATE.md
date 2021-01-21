@@ -52,7 +52,7 @@ Everything listed here is available under [Unlicense](https://unlicense.org/)
 - **MLAM** (7,409 Downloads) — First repository for machine learning in asset management (market data) [[code](https://github.com/firmai/machine-learning-asset-management)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952)]
 
 
-Other packages under this license includes **MTSS-GAN**, the first multivariate conditional time series generator [[code](https://github.com/firmai/machine-learning-asset-management)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952)], **FairPut**, the first FAIR package using LightGBM (mortgage data) [[code](https://github.com/firmai/ml-fairness-framework)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3619715)], and **PandasVault**, an advanced Pandas repository [[code](https://github.com/firmai/pandasvault)]
+Other packages under this license includes **MTSS-GAN** [[code](https://github.com/firmai/machine-learning-asset-management)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952)], the first multivariate conditional time series generator, **FairPut** [[code](https://github.com/firmai/ml-fairness-framework)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3619715)], the first FAIR package using LightGBM (mortgage data), and **PandasVault** [[code](https://github.com/firmai/pandasvault)], an advanced Pandas repository 
 
 <!--- - 👁️ Advisor at ... --->
 
