@@ -10,7 +10,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-<br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
+
   
 <!-- feed start -->
 - Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
@@ -20,7 +20,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
 - Jan 07 - [Deep Generative Models are Privacy Regularisers ](https://theparlour.substack.com/p/deep-generative-models-are-privacy)
 <!-- feed end -->
 
-</p>
+
   </td>
   </table>
 
