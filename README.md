@@ -23,17 +23,15 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   </table>
 
-I Joined Github **3** years ago. Since then I pushed **1736** commits, opened **82** issues, received **12698** stars across **55** personal projects and contributed to **37** public repositories.
-
-
 - 👥 Core team member at [@alan-turing-institute](https://github.com/alan-turing-institute)
 
 - 🧭 Founder of the [@firmai](https://github.com/firmai) open-source project
 
 - 🦌 GitAwards [top 100](http://git-awards.com/users?language=jupyter_notebook) for Jupyter Notebooks
 
+I Joined Github **3** years ago. Since then I pushed **1737** commits, opened **82** issues, received **12698** stars across **55** personal projects and contributed to **37** public repositories.
 
- - Working on: synthetic data generation, agent-based simulators, asset management, customer vulnerability, fraud detection, and network generation using machine learning; with
+ - Currently working on: synthetic data generation, agent-based simulators, asset management, customer vulnerability, fraud detection, and network generation using machine learning; with
  - the office of national statistics, financial market authorities, british government departments, and multinational investment banks. 
 
 
