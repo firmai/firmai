@@ -8,15 +8,13 @@ I'm Derek, a software developer and machine learning researcher in management sc
 &nbsp; <br> [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/1280520793)
 
   </td>
-  <td width="50%">
+  <td width="50%">  
   
 - 👥 Core team member at [@alan-turing-institute](https://github.com/alan-turing-institute)
 
 - 🧭 Founder of the [@firmai](https://github.com/firmai) open-source project
 
 - 🦌 GitAwards [top 100](http://git-awards.com/users?language=jupyter_notebook) for Jupyter Notebooks
-
-
   </td>
   </table>
   
@@ -36,7 +34,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-I Joined Github **3** years ago. Since then I pushed **1743** commits, opened **82** issues, received **12698** stars across **55** personal projects and contributed to **37** public repositories.
+I Joined Github **3** years ago. Since then I pushed **1745** commits, opened **82** issues, received **12698** stars across **55** personal projects and contributed to **37** public repositories.
 
   </td>
   </table>
