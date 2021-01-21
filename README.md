@@ -37,7 +37,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-I Joined Github **3** years ago. Since then I pushed **1802** commits, opened **83** issues, received **12701** stars across **55** personal projects and contributed to **38** public repositories.
+I Joined Github **3** years ago. Since then I pushed **1803** commits, opened **83** issues, received **12701** stars across **55** personal projects and contributed to **38** public repositories.
 
   </td>
   </table>
@@ -46,12 +46,8 @@ I Joined Github **3** years ago. Since then I pushed **1802** commits, opened **
   <tr>
   <td width="100%">
 
-Everything here is available under [Unlicense](https://unlicense.org/)
 
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/3ZNzb8gi)
-[![Years Badge](https://badges.pufler.dev/years/firmai)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/firmai)](https://badges.pufler.dev)
-[![firmai](https://komarev.com/ghpvc/?username=firmai)](firmai.org)
+
 
 
   </td>
@@ -59,7 +55,15 @@ Everything here is available under [Unlicense](https://unlicense.org/)
   </table>
   
   
+<p align="center">
+Everything here is available under [Unlicense](https://unlicense.org/)
+  <br><br>
+[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/3ZNzb8gi)
+[![Years Badge](https://badges.pufler.dev/years/firmai)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/firmai)](https://badges.pufler.dev)
+[![firmai](https://komarev.com/ghpvc/?username=firmai)](firmai.org)
 
+</p>
 
 
 | Name     | Date      | Package Downloads                                                                  | Description                            | Applied           | Code | Paper |
