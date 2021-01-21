@@ -23,6 +23,8 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   </table>
 
+I Joined Github **3** years ago. Since then I pushed **1735** commits, opened **82** issues, received **12698** stars across **55** personal projects and contributed to **37** public repositories.
+
 
 - 👥 Core team member at [@alan-turing-institute](https://github.com/alan-turing-institute)
 
@@ -35,11 +37,10 @@ I'm Derek, a software developer and machine learning researcher in management sc
  - the office of national statistics, financial market authorities, british government departments, and multinational investment banks. 
 
 
-I Joined Github **3** years ago. Since then I pushed **1734** commits, opened **82** issues, received **12698** stars across **55** personal projects and contributed to **37** public repositories.
-
 <!--- - 👁️ Advisor at ... --->
 
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/3ZNzb8gi)
+[![Years Badge](https://badges.pufler.dev/years/firmai)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/firmai)](https://badges.pufler.dev)
 [![firmai](https://komarev.com/ghpvc/?username=firmai)](firmai.org)
 
