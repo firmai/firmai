@@ -18,10 +18,6 @@ I'm Derek, a software developer and machine learning researcher in management sc
 - Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
 - Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
 - Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://theparlour.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
-<!-- feed start -->
-- Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
-- Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
-- Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://theparlour.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
 <!-- feed end -->
 
   </td>
@@ -40,7 +36,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-I Joined Github **3** years ago. Since then I pushed **1817** commits, opened **83** issues, received **12702** stars across **55** personal projects and contributed to **38** public repositories.
+I Joined Github **3** years ago. Since then I pushed **1820** commits, opened **83** issues, received **12702** stars across **55** personal projects and contributed to **38** public repositories.
 
   </td>
   </table>
@@ -49,13 +45,13 @@ I Joined Github **3** years ago. Since then I pushed **1817** commits, opened **
 
 Everything here is available under [Unlicense](https://unlicense.org/)
 
-- **DeltaPy** (7,409 Downloads) — First Python data augmentation package (market data) [(code)[https://github.com/firmai/deltapy]][(report)[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3582219]]
-- **PandaPy** (7,409 Downloads) — Pandas altenative that mimics ‘Structs’ in the C Language (market data) [code][report]
-- **AtsPy** (7,409 Downloads) — First automated time series package in Python (alternative data) [code][report]
-- **FairPut** (7,409 Downloads) — First FAIR package using LightGBM (mortgage data) [code][report]
-- **DataGene** (7,409 Downloads) — First Python package to assess how similar datasets are to one another (market data) [code][report]
-- **MTSS-GAN** (7,409 Downloads) — First multivariate conditional time series generator (market data) [code][report]
-- **MLAM** (7,409 Downloads) — First open-source code base for machine learning in asset management (market data) [code][report]
+- **DeltaPy** (7,409 Downloads) — First Python data augmentation package (market data) [[code](https://github.com/firmai/deltapy)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3582219)]
+- **PandaPy** (14,163 Downloads) — Pandas altenative that mimics ‘Structs’ in the C Language (market data) [[code](https://github.com/firmai/pandapy)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3599639)]
+- **AtsPy** (27,147 Downloads) — First automated time series package in Python (alternative data) [[code](https://github.com/firmai/atspy)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631)]
+- **DataGene** (2,246 Downloads) — First package assessing dataset similarity (market data) [[code](https://github.com/firmai/datagene)][[report](https://ssrn.com/abstract=3619626)]
+- **MLAM** (7,409 Downloads) — First repository for machine learning in asset management (market data) [[code](https://github.com/firmai/machine-learning-asset-management)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952)]
+- **MTSS-GAN** (41 Stars) — First multivariate conditional time series generator (market data) [[code](https://github.com/firmai/mtss-gan)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3616557)]
+- **FairPut** (47 Stars) — First FAIR package using LightGBM (mortgage data) [[code](https://github.com/firmai/ml-fairness-framework)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3619715)]
 
 
 <!--- - 👁️ Advisor at ... --->
