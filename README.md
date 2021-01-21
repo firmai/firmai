@@ -13,11 +13,9 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">  
  
+ (https://theparlour.substack.com/) [..    .-- .-. .. - .    .- -    - .... .    .--. .- .-. .-.. --- ..- .-.](https://theparlour.substack.com/)
+ 
  <!-- feed start -->
-- Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
-- Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
-- Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://theparlour.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
-<!-- feed start -->
 - Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
 - Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
 - Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://theparlour.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
@@ -39,24 +37,25 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-I Joined Github **3** years ago. Since then I pushed **1798** commits, opened **83** issues, received **12699** stars across **55** personal projects and contributed to **38** public repositories.
+I Joined Github **3** years ago. Since then I pushed **1801** commits, opened **83** issues, received **12700** stars across **55** personal projects and contributed to **38** public repositories.
 
   </td>
   </table>
   
 <table width="100%"> 
   <tr>
-  <td width="90%">
+  <td width="100%">
 
-DataGene[code][paper], the first Python package to assess how similar datasets are to one another (applied to stock market data) </br>
-DataGene[code][paper], the first Python package to assess how similar datasets are to one another (applied to stock market data)
+Everything here is available under [Unlicense](https://unlicense.org/)
+
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/3ZNzb8gi)
+[![Years Badge](https://badges.pufler.dev/years/firmai)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/firmai)](https://badges.pufler.dev)
+[![firmai](https://komarev.com/ghpvc/?username=firmai)](firmai.org)
+
 
   </td>
-  <td width="10%">
-  
-[![Downloads](https://static.pepy.tech/personalized-badge/requests?period=total&units=abbreviation&left_color=lightgrey&right_color=grey&left_text=Downloads)](https://pepy.tech/project/requests) </br> [![Downloads](https://static.pepy.tech/personalized-badge/requests?period=total&units=abbreviation&left_color=lightgrey&right_color=grey&left_text=Downloads)](https://pepy.tech/project/requests)
 
-  </td>
   </table>
   
   
@@ -81,15 +80,10 @@ DataGene[code][paper], the first Python package to assess how similar datasets a
 
 <!--- - 👁️ Advisor at ... --->
 
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/3ZNzb8gi)
-[![Years Badge](https://badges.pufler.dev/years/firmai)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/firmai)](https://badges.pufler.dev)
-[![firmai](https://komarev.com/ghpvc/?username=firmai)](firmai.org)
 
 
 
 
-Everything here is available under [Unlicense](https://unlicense.org/); Previously [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3160654), now [Substack](https://theparlour.substack.com/) [..    .-- .-. .. - .    .- -    - .... .    .--. .- .-. .-.. --- ..- .-.](https://theparlour.substack.com/)
                             
 
 
