@@ -9,6 +9,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
 
   </td>
   <td width="50%">  
+  
 - 👥 Core team member at [@alan-turing-institute](https://github.com/alan-turing-institute)
 
 - 🧭 Founder of the [@firmai](https://github.com/firmai) open-source project
