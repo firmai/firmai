@@ -20,11 +20,9 @@ I'm Derek, a software developer and machine learning researcher in management sc
 [![Years Badge](https://badges.pufler.dev/years/firmai)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/firmai)](https://badges.pufler.dev)
 
-### Example RSS feed:
-
-<!--START_SECTION:feed-->
-...
-<!--END_SECTION:feed-->
+### Latest Posts
+<!-- feed start -->
+<!-- feed end -->
 
 Everything here is available under [Unlicense](https://unlicense.org/); Previously [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3160654), now [Substack](https://theparlour.substack.com/).
                             
