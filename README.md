@@ -1,5 +1,8 @@
 ### Hi there 👋
-I'm Derek, a software developer and machine learning researcher in management sciences and finance. 
+I'm Derek, a software developer and machine learning researcher in management sciences and finance, currently working on:
+
+ - Synthetic data generation, agent-based simulators, and asset management using machine learning; with
+ - The office of national statistics, financial market authorities, british government departments, and multinational investment banks. 
 
 <table width="100%"> 
   <tr>
@@ -11,6 +14,10 @@ I'm Derek, a software developer and machine learning researcher in management sc
   <td width="50%">  
  
  <!-- feed start -->
+- Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
+- Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
+- Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://theparlour.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
+<!-- feed start -->
 - Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
 - Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
 - Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://theparlour.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
@@ -32,17 +39,10 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-I Joined Github **3** years ago. Since then I pushed **1747** commits, opened **82** issues, received **12698** stars across **55** personal projects and contributed to **37** public repositories.
+I Joined Github **3** years ago. Since then I pushed **1758** commits, opened **82** issues, received **12698** stars across **55** personal projects and contributed to **37** public repositories.
 
   </td>
   </table>
-
-
-
-
-
- - Currently working on: synthetic data generation, agent-based simulators, asset management, customer vulnerability, fraud detection, and network generation using machine learning; with
- - the office of national statistics, financial market authorities, british government departments, and multinational investment banks. 
 
 
 <!--- - 👁️ Advisor at ... --->
