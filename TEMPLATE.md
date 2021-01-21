@@ -47,7 +47,7 @@ I Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMIT
 Everything here is available under [Unlicense](https://unlicense.org/)
 
 - **DeltaPy** (2020, Feb)[7,409 Downloads]  - the First Python data augmentation package (applied to stock market data) [code][paper]
-- AtsPy[code][paper] , the first automated time series package in Python (applied to alternative data)
+- **AtsPy** (7,409 Downloads) , the first automated time series package in Python (applied to alternative data)
 - PandaPy[code][paper], a faster Pandas altenative that mimics ‘Structs’ in the C Language (applied to stock market data) 
 - FairPut[code][paper], the first FAIR package using LightGBM (applied to mortgage data) 
 - DataGene[code][paper], the first Python package to assess how similar datasets are to one another (applied to stock market data)
