@@ -45,14 +45,13 @@ I Joined Github **3** years ago. Since then I pushed **1773** commits, opened **
   </table>
   
 
-- DeltaPy, the first Python data augmentation package (applied to stock market data)
-- AtsPy, the first automated time series package in Python (applied to alternative data)
-- PandaPy, a faster Pandas altenative that mimics ‘Structs’ in the C Language (applied to stock market data)
-- FairPut, the first FAIR package using LightGBM (applied to mortgage data)
-- DataGene, the first Python package to assess how similar datasets are to one another (applied to stock market data)
-- MTSS-GAN, the first multivariate conditional time series generator (applied to stock market data)
-- ICR, the first fully automated interactive corporate report built in Python (applied to alternative data)
-- MLAM, the first open source code base for machine learning in asset management (applied to stock market data)
+- DeltaPy[code][paper], the first Python data augmentation package (applied to stock market data)
+- AtsPy[code][paper], the first automated time series package in Python (applied to alternative data)
+- PandaPy[code][paper], a faster Pandas altenative that mimics ‘Structs’ in the C Language (applied to stock market data)
+- FairPut[code][paper], the first FAIR package using LightGBM (applied to mortgage data)
+- DataGene[code][paper], the first Python package to assess how similar datasets are to one another (applied to stock market data)
+- MTSS-GAN[code][paper], the first multivariate conditional time series generator (applied to stock market data)
+- MLAM[code][paper], the first open source code base for machine learning in asset management (applied to stock market data)
 
 <!--- - 👁️ Advisor at ... --->
 
