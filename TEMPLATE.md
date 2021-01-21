@@ -39,8 +39,8 @@ I Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMIT
 
   </td>
   </table>
-  
-- DeltaPy [2020,Feb] - the first Python data augmentation package (applied to stock market data) [code][paper]
+
+- DeltaPy [2020, Feb][![star this repo](https://githubbadges.com/star.svg?user=firmai&repo=deltapy&style=flat-square&color=fff&background=888)](https://github.com/firmai/deltapy) - the first Python data augmentation package (applied to stock market data) [code][paper]
 - AtsPy[code][paper], the first automated time series package in Python (applied to alternative data)
 - PandaPy[code][paper], a faster Pandas altenative that mimics ‘Structs’ in the C Language (applied to stock market data)
 - FairPut[code][paper], the first FAIR package using LightGBM (applied to mortgage data)
