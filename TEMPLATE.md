@@ -40,13 +40,11 @@ I Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMIT
   </td>
   </table>
 
-| Name     | Date      | Package Downloads                                                                  | Description                            | Code | Paper |
-|----------|-----------|------------------------------------------------------------------------------------|----------------------------------------|------|-------|
-| DeltaPy  | 2020, Feb | [![Downloads](https://pepy.tech/badge/deltapy)](https://pepy.tech/project/deltapy) | First Python data augmentation package | code | paper |
-| AtsPy    | 2020, Feb | [![Downloads](https://pepy.tech/badge/deltapy)](https://pepy.tech/project/deltapy) | First Python data augmentation package | code | paper |
-| Fite     | 2020, Feb | [![Downloads](https://pepy.tech/badge/deltapy)](https://pepy.tech/project/deltapy) | First Python data augmentation package | code | paper |
-
-
+| Name     | Date      | Package Downloads                                                                  | Description                            | Applied           | Code | Paper |
+|----------|-----------|------------------------------------------------------------------------------------|----------------------------------------|-------------------|------|-------|
+| DeltaPy  | 2020, Feb | [![Downloads](https://pepy.tech/badge/deltapy)](https://pepy.tech/project/deltapy) | First Python data augmentation package | Stock Market Data | code | paper |
+| AtsPy    | 2020, Feb | [![Downloads](https://pepy.tech/badge/deltapy)](https://pepy.tech/project/deltapy) | First Python data augmentation package | Stock Market Data | code | paper |
+| Fite     | 2020, Feb | [![Downloads](https://pepy.tech/badge/deltapy)](https://pepy.tech/project/deltapy) | First Python data augmentation package | Stock Market Data | code | paper |
 [![Downloads](https://static.pepy.tech/personalized-badge/requests?period=total&units=abbreviation&left_color=lightgrey&right_color=grey&left_text=Downloads)](https://pepy.tech/project/requests)
 
 - [![Downloads](https://static.pepy.tech/personalized-badge/requests?period=total&units=abbreviation&left_color=lightgrey&right_color=grey&left_text=Downloads)](https://pepy.tech/project/requests) DeltaPy [2020, Feb] [![Downloads](https://pepy.tech/badge/deltapy)](https://pepy.tech/project/deltapy) - the First Python data augmentation package (applied to stock market data) [code][paper]
