@@ -42,13 +42,13 @@ I Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMIT
   
 <table width="100%"> 
   <tr>
-  <td width="50%">
+  <td width="90%">
 
 DataGene[code][paper], the first Python package to assess how similar datasets are to one another (applied to stock market data) </br>
 DataGene[code][paper], the first Python package to assess how similar datasets are to one another (applied to stock market data)
 
   </td>
-  <td width="50%">
+  <td width="10%">
   
 [![Downloads](https://static.pepy.tech/personalized-badge/requests?period=total&units=abbreviation&left_color=lightgrey&right_color=grey&left_text=Downloads)](https://pepy.tech/project/requests) </br> [![Downloads](https://static.pepy.tech/personalized-badge/requests?period=total&units=abbreviation&left_color=lightgrey&right_color=grey&left_text=Downloads)](https://pepy.tech/project/requests)
 
