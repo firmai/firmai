@@ -42,7 +42,7 @@ I Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMIT
   
   
 
-  <table width="100%">
+  <table width=100%>
     <thead align="center">
       <tr border: none;>
         <td><b>💻 Projects</b></td>
