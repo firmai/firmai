@@ -45,13 +45,13 @@ I Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMIT
 
 Everything here is available under [Unlicense](https://unlicense.org/)
 
-- **DeltaPy** (7,409 Downloads)  - the First Python data augmentation package (applied to stock market data) [code][paper]
-- **AtsPy** [7,409 Downloads] - the first automated time series package in Python (applied to alternative data)
-- PandaPy[code][paper], a faster Pandas altenative that mimics ‘Structs’ in the C Language (applied to stock market data) 
-- FairPut[code][paper], the first FAIR package using LightGBM (applied to mortgage data) 
-- DataGene[code][paper], the first Python package to assess how similar datasets are to one another (applied to stock market data)
-- MTSS-GAN[code][paper], the first multivariate conditional time series generator (applied to stock market data)
-- MLAM[code][paper], the first open source code base for machine learning in asset management (applied to stock market data)
+- **DeltaPy** [7,409 Downloads] - the First Python data augmentation package (market data) [code][paper]
+- **AtsPy** [7,409 Downloads] - the first automated time series package in Python (alternative data) [code][paper]
+- **PandaPy** [7,409 Downloads], a faster Pandas altenative that mimics ‘Structs’ in the C Language (market data) 
+- **FairPut** [7,409 Downloads], the first FAIR package using LightGBM (mortgage data) 
+- **DataGene** [7,409 Downloads], the first Python package to assess how similar datasets are to one another (market data)
+- **MTSS-GAN** [7,409 Downloads], the first multivariate conditional time series generator (market data)
+- **MLAM** [7,409 Downloads], the first open source code base for machine learning in asset management (market data)
 
 
 <!--- - 👁️ Advisor at ... --->
