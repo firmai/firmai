@@ -13,7 +13,6 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">  
  
- [..    .-- .-. .. - .    .- -    - .... .    .--. .- .-. .-.. --- ..- .-.](https://theparlour.substack.com/)
  
  <!-- feed start -->
 - Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
@@ -46,8 +45,8 @@ I Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMIT
 
 Everything here is available under [Unlicense](https://unlicense.org/)
 
-- **DeltaPy** (2020, Feb)[7,409 Downloads]  - the First Python data augmentation package (applied to stock market data) [code][paper]
-- **AtsPy** (7,409 Downloads) , the first automated time series package in Python (applied to alternative data)
+- **DeltaPy** (7,409 Downloads)  - the First Python data augmentation package (applied to stock market data) [code][paper]
+- **AtsPy** [7,409 Downloads] - the first automated time series package in Python (applied to alternative data)
 - PandaPy[code][paper], a faster Pandas altenative that mimics ‘Structs’ in the C Language (applied to stock market data) 
 - FairPut[code][paper], the first FAIR package using LightGBM (applied to mortgage data) 
 - DataGene[code][paper], the first Python package to assess how similar datasets are to one another (applied to stock market data)
@@ -62,6 +61,8 @@ Everything here is available under [Unlicense](https://unlicense.org/)
 [![Years Badge](https://badges.pufler.dev/years/firmai)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/firmai)](https://badges.pufler.dev)
 [![firmai](https://komarev.com/ghpvc/?username=firmai)](firmai.org)
+
+ [..    .-- .-. .. - .    .- -    - .... .    .--. .- .-. .-.. --- ..- .-.](https://theparlour.substack.com/)
 
 
                             
