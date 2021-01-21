@@ -43,21 +43,6 @@ I Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMIT
   </table>
   
 
-  
-<p align="center">
- 
-Everything here is available under [Unlicense](https://unlicense.org/)
-
-  <br><br>
-  
-[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/3ZNzb8gi)
-[![Years Badge](https://badges.pufler.dev/years/firmai)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/firmai)](https://badges.pufler.dev)
-[![firmai](https://komarev.com/ghpvc/?username=firmai)](firmai.org)
-
-</p>
-
-
 - DeltaPy[2020, Feb]  - the First Python data augmentation package (applied to stock market data) [code][paper]
 - AtsPy[code][paper] , the first automated time series package in Python (applied to alternative data)
 - PandaPy[code][paper], a faster Pandas altenative that mimics ‘Structs’ in the C Language (applied to stock market data) 
@@ -69,8 +54,12 @@ Everything here is available under [Unlicense](https://unlicense.org/)
 
 <!--- - 👁️ Advisor at ... --->
 
+No need to ask for my permission, everything here is available under [Unlicense](https://unlicense.org/)
 
-
+[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/3ZNzb8gi)
+[![Years Badge](https://badges.pufler.dev/years/firmai)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/firmai)](https://badges.pufler.dev)
+[![firmai](https://komarev.com/ghpvc/?username=firmai)](firmai.org)
 
 
                             
