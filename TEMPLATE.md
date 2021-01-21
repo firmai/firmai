@@ -42,22 +42,14 @@ I Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMIT
   </td>
   </table>
   
-<table width="100%"> 
-  <tr>
-  <td width="100%">
 
-
-
-
-
-  </td>
-
-  </table>
-  
   
 <p align="center">
+ 
 Everything here is available under [Unlicense](https://unlicense.org/)
+
   <br><br>
+  
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/3ZNzb8gi)
 [![Years Badge](https://badges.pufler.dev/years/firmai)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/firmai)](https://badges.pufler.dev)
@@ -66,17 +58,10 @@ Everything here is available under [Unlicense](https://unlicense.org/)
 </p>
 
 
-| Name     | Date      | Package Downloads                                                                  | Description                            | Applied           | Code | Paper |
-|----------|-----------|------------------------------------------------------------------------------------|----------------------------------------|-------------------|------|-------|
-| DeltaPy  | 2020, Feb | [![Downloads](https://pepy.tech/badge/deltapy)](https://pepy.tech/project/deltapy) | First Python data augmentation package | Stock Market Data | code | paper |
-| AtsPy    | 2020, Feb | [![Downloads](https://pepy.tech/badge/deltapy)](https://pepy.tech/project/deltapy) | First Python data augmentation package | Stock Market Data | code | paper |
-| Fite     | 2020, Feb | [![Downloads](https://pepy.tech/badge/deltapy)](https://pepy.tech/project/deltapy) | First Python data augmentation package | Stock Market Data | code | paper |
-[![Downloads](https://static.pepy.tech/personalized-badge/requests?period=total&units=abbreviation&left_color=lightgrey&right_color=grey&left_text=Downloads)](https://pepy.tech/project/requests)
-
-- [![Downloads](https://static.pepy.tech/personalized-badge/requests?period=total&units=abbreviation&left_color=lightgrey&right_color=grey&left_text=Downloads)](https://pepy.tech/project/requests) DeltaPy [2020, Feb] [![Downloads](https://pepy.tech/badge/deltapy)](https://pepy.tech/project/deltapy) - the First Python data augmentation package (applied to stock market data) [code][paper]
-- AtsPy[code][paper] [![Downloads](https://static.pepy.tech/personalized-badge/requests?period=total&units=abbreviation&left_color=lightgrey&right_color=grey&left_text=Downloads)](https://pepy.tech/project/requests), the first automated time series package in Python (applied to alternative data)
-- PandaPy[code][paper], a faster Pandas altenative that mimics ‘Structs’ in the C Language (applied to stock market data) [![Downloads](https://static.pepy.tech/personalized-badge/requests?period=total&units=abbreviation&left_color=lightgrey&right_color=grey&left_text=Downloads)](https://pepy.tech/project/requests)
-- FairPut[code][paper], the first FAIR package using LightGBM (applied to mortgage data) [![Downloads](https://static.pepy.tech/personalized-badge/requests?period=total&units=abbreviation&left_color=lightgrey&right_color=grey&left_text=Downloads)](https://pepy.tech/project/requests)
+- DeltaPy[2020, Feb]  - the First Python data augmentation package (applied to stock market data) [code][paper]
+- AtsPy[code][paper] , the first automated time series package in Python (applied to alternative data)
+- PandaPy[code][paper], a faster Pandas altenative that mimics ‘Structs’ in the C Language (applied to stock market data) 
+- FairPut[code][paper], the first FAIR package using LightGBM (applied to mortgage data) 
 - DataGene[code][paper], the first Python package to assess how similar datasets are to one another (applied to stock market data)
 - MTSS-GAN[code][paper], the first multivariate conditional time series generator (applied to stock market data)
 - MLAM[code][paper], the first open source code base for machine learning in asset management (applied to stock market data)
