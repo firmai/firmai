@@ -44,8 +44,8 @@ I Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMIT
   <tr>
   <td width="90%">
 
-DataGene[code][paper], the first Python package to assess how similar datasets are to one another (applied to stock market data) </br>
-DataGene[code][paper], the first Python package to assess how similar datasets are to one another (applied to stock market data)
+DataGene[code][paper], the first Python package to assess how similar datasets are to one another  </br>
+DataGene[code][paper], the first Python package to assess how similar datasets are to one another
 
   </td>
   <td width="10%">
