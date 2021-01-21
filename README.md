@@ -17,10 +17,6 @@ I'm Derek, a software developer and machine learning researcher in management sc
 - Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
 - Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
 - Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://theparlour.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
-<!-- feed start -->
-- Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
-- Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
-- Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://theparlour.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
 <!-- feed end -->
 
   </td>
@@ -39,14 +35,19 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-I Joined Github **3** years ago. Since then I pushed **1791** commits, opened **83** issues, received **12699** stars across **55** personal projects and contributed to **38** public repositories.
+I Joined Github **3** years ago. Since then I pushed **1794** commits, opened **83** issues, received **12699** stars across **55** personal projects and contributed to **38** public repositories.
 
   </td>
   </table>
 
+| Name     | Date      | Package Downloads                                                                  | Description                            | Applied           | Code | Paper |
+|----------|-----------|------------------------------------------------------------------------------------|----------------------------------------|-------------------|------|-------|
+| DeltaPy  | 2020, Feb | [![Downloads](https://pepy.tech/badge/deltapy)](https://pepy.tech/project/deltapy) | First Python data augmentation package | Stock Market Data | code | paper |
+| AtsPy    | 2020, Feb | [![Downloads](https://pepy.tech/badge/deltapy)](https://pepy.tech/project/deltapy) | First Python data augmentation package | Stock Market Data | code | paper |
+| Fite     | 2020, Feb | [![Downloads](https://pepy.tech/badge/deltapy)](https://pepy.tech/project/deltapy) | First Python data augmentation package | Stock Market Data | code | paper |
 [![Downloads](https://static.pepy.tech/personalized-badge/requests?period=total&units=abbreviation&left_color=lightgrey&right_color=grey&left_text=Downloads)](https://pepy.tech/project/requests)
 
-- [![Downloads](https://static.pepy.tech/personalized-badge/requests?period=total&units=abbreviation&left_color=lightgrey&right_color=grey&left_text=Downloads)](https://pepy.tech/project/requests) DeltaPy [2020, Feb] [![Downloads](https://pepy.tech/badge/deltapy)](https://pepy.tech/project/deltapy) - the first Python data augmentation package (applied to stock market data) [code][paper]
+- [![Downloads](https://static.pepy.tech/personalized-badge/requests?period=total&units=abbreviation&left_color=lightgrey&right_color=grey&left_text=Downloads)](https://pepy.tech/project/requests) DeltaPy [2020, Feb] [![Downloads](https://pepy.tech/badge/deltapy)](https://pepy.tech/project/deltapy) - the First Python data augmentation package (applied to stock market data) [code][paper]
 - AtsPy[code][paper] [![Downloads](https://static.pepy.tech/personalized-badge/requests?period=total&units=abbreviation&left_color=lightgrey&right_color=grey&left_text=Downloads)](https://pepy.tech/project/requests), the first automated time series package in Python (applied to alternative data)
 - PandaPy[code][paper], a faster Pandas altenative that mimics ‘Structs’ in the C Language (applied to stock market data) [![Downloads](https://static.pepy.tech/personalized-badge/requests?period=total&units=abbreviation&left_color=lightgrey&right_color=grey&left_text=Downloads)](https://pepy.tech/project/requests)
 - FairPut[code][paper], the first FAIR package using LightGBM (applied to mortgage data) [![Downloads](https://static.pepy.tech/personalized-badge/requests?period=total&units=abbreviation&left_color=lightgrey&right_color=grey&left_text=Downloads)](https://pepy.tech/project/requests)
