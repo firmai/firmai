@@ -42,7 +42,6 @@ I Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMIT
   
   
 
-<details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
 
   <br />
@@ -93,7 +92,6 @@ I Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMIT
     </tbody>
   </table>
   <br />
-</details>
  
 
 
