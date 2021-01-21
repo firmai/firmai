@@ -41,7 +41,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
 
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/3ZNzb8gi)
 [![Years Badge](https://badges.pufler.dev/years/firmai)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/firmai)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/firmai)](https://badges.pufler.dev) <p align="left"> <img src="https://komarev.com/ghpvc/?username=firmai" alt="firmai" /> </p>
 
 
 
