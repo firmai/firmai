@@ -46,12 +46,8 @@ I Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMIT
   <tr>
   <td width="100%">
 
-Everything here is available under [Unlicense](https://unlicense.org/)
 
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/3ZNzb8gi)
-[![Years Badge](https://badges.pufler.dev/years/firmai)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/firmai)](https://badges.pufler.dev)
-[![firmai](https://komarev.com/ghpvc/?username=firmai)](firmai.org)
+
 
 
   </td>
@@ -59,7 +55,15 @@ Everything here is available under [Unlicense](https://unlicense.org/)
   </table>
   
   
+<p align="center">
+Everything here is available under [Unlicense](https://unlicense.org/)
+  <br><br>
+[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/3ZNzb8gi)
+[![Years Badge](https://badges.pufler.dev/years/firmai)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/firmai)](https://badges.pufler.dev)
+[![firmai](https://komarev.com/ghpvc/?username=firmai)](firmai.org)
 
+</p>
 
 
 | Name     | Date      | Package Downloads                                                                  | Description                            | Applied           | Code | Paper |
