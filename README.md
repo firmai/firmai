@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Derek, a software developer and machine learning researcher in management sciences and finance
+I'm Derek, a software developer and machine learning researcher in management sciences and finance. 
 
 <table width="100%"> 
   <tr>
@@ -15,8 +15,6 @@ I'm Derek, a software developer and machine learning researcher in management sc
 - Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
 - Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
 - Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://theparlour.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
-- Jan 08 - [Neural Landscape for Option Modelling](https://theparlour.substack.com/p/neural-landscape-for-option-modelling)
-- Jan 07 - [Deep Generative Models are Privacy Regularisers ](https://theparlour.substack.com/p/deep-generative-models-are-privacy)
 <!-- feed end -->
 
 
@@ -36,7 +34,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-I Joined Github **3** years ago. Since then I pushed **1738** commits, opened **82** issues, received **12698** stars across **55** personal projects and contributed to **37** public repositories.
+I Joined Github **3** years ago. Since then I pushed **1741** commits, opened **82** issues, received **12698** stars across **55** personal projects and contributed to **37** public repositories.
 
   </td>
   </table>
