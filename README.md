@@ -13,13 +13,8 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">  
  
- [..    .-- .-. .. - .    .- -    - .... .    .--. .- .-. .-.. --- ..- .-.](https://theparlour.substack.com/)
  
  <!-- feed start -->
-- Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
-- Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
-- Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://theparlour.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
-<!-- feed start -->
 - Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
 - Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
 - Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://theparlour.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
@@ -41,7 +36,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-I Joined Github **3** years ago. Since then I pushed **1810** commits, opened **83** issues, received **12701** stars across **55** personal projects and contributed to **38** public repositories.
+I Joined Github **3** years ago. Since then I pushed **1813** commits, opened **83** issues, received **12702** stars across **55** personal projects and contributed to **38** public repositories.
 
   </td>
   </table>
@@ -50,8 +45,8 @@ I Joined Github **3** years ago. Since then I pushed **1810** commits, opened **
 
 Everything here is available under [Unlicense](https://unlicense.org/)
 
-- **DeltaPy** (2020, Feb)[7,409 Downloads]  - the First Python data augmentation package (applied to stock market data) [code][paper]
-- AtsPy[code][paper] , the first automated time series package in Python (applied to alternative data)
+- **DeltaPy** (7,409 Downloads)  - the First Python data augmentation package (applied to stock market data) [code][paper]
+- **AtsPy** [7,409 Downloads] - the first automated time series package in Python (applied to alternative data)
 - PandaPy[code][paper], a faster Pandas altenative that mimics ‘Structs’ in the C Language (applied to stock market data) 
 - FairPut[code][paper], the first FAIR package using LightGBM (applied to mortgage data) 
 - DataGene[code][paper], the first Python package to assess how similar datasets are to one another (applied to stock market data)
@@ -66,6 +61,8 @@ Everything here is available under [Unlicense](https://unlicense.org/)
 [![Years Badge](https://badges.pufler.dev/years/firmai)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/firmai)](https://badges.pufler.dev)
 [![firmai](https://komarev.com/ghpvc/?username=firmai)](firmai.org)
+
+ [..    .-- .-. .. - .    .- -    - .... .    .--. .- .-. .-.. --- ..- .-.](https://theparlour.substack.com/)
 
 
                             
