@@ -45,7 +45,7 @@ I Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMIT
 
 Everything here is available under [Unlicense](https://unlicense.org/)
 
-- **DeltaPy** (7,409 Downloads) — First Python data augmentation package (market data) [(code)[https://github.com/firmai/deltapy]][(report)[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3582219]]
+- **DeltaPy** (7,409 Downloads) — First Python data augmentation package (market data) [[code](https://github.com/firmai/deltapy)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3582219)]
 - **PandaPy** (7,409 Downloads) — Pandas altenative that mimics ‘Structs’ in the C Language (market data) [code][report]
 - **AtsPy** (7,409 Downloads) — First automated time series package in Python (alternative data) [code][report]
 - **FairPut** (7,409 Downloads) — First FAIR package using LightGBM (mortgage data) [code][report]
