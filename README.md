@@ -35,7 +35,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
 
 - 🧭 Founder of the [@firmai](https://github.com/firmai) open-source project
 
-- 🦌 GitAwards [top 100](http://git-awards.com/users?language=jupyter_notebook) for Jupyter Notebooks
+- 🦌 GitAwards [top 100](http://git-awards.com/users?language=jupyter_notebook) for Jupyter Notebooks.
 
   </td>
   <td width="50%">
