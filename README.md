@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Derek, a software developer and machine learning researcher in management sciences and finance, currently working on:
 
- - Synthetic data generation, agent-based simulators, and asset management using machine learning; with
+ - Synthetic data generation, agent-based simulators, forecasting, and asset management using machine learning; with
  - Quantitative funds, multinational investment banks, financial market authorities, the office of national statistics, and other british government departments.
 
 <table width="100%"> 
@@ -18,10 +18,6 @@ I'm Derek, a software developer and machine learning researcher in management sc
 - Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
 - Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
 - Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://theparlour.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
-<!-- feed start -->
-- Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
-- Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
-- Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://theparlour.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
 <!-- feed end -->
 
   </td>
@@ -35,12 +31,12 @@ I'm Derek, a software developer and machine learning researcher in management sc
 
 - 🧭 Founder of the [@firmai](https://github.com/firmai) open-source project
 
-- 🦌 GitAwards [top 100](http://git-awards.com/users?language=jupyter_notebook) for Jupyter Notebooks.
+- 🦌 GitAwards [top 100](http://git-awards.com/users?language=jupyter_notebook) for Jupyter Notebooks
 
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **1842** commits, opened **83** issues, received **12705** stars across **55** personal projects and contributed to **38** public repositories.
+Since joining Github, I pushed **1845** commits, opened **83** issues, received **12706** stars across **55** personal projects and contributed to **38** public repositories.
 
   </td>
   </table>
