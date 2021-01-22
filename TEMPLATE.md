@@ -36,7 +36,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-I Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+Since joining Github, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
   </td>
   </table>
