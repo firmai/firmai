@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Derek, a software developer and machine learning researcher in management sciences and finance, currently working on:
+I'm Derek, a software developer and machine learning researcher in management sciences and finance, currently working on
 
  - Synthetic data generation, agent-based simulators, forecasting, and asset management using machine learning; with
  - Quantitative funds, multinational investment banks, financial market authorities, the office of national statistics, and other british government departments.
