@@ -58,7 +58,6 @@ Other packages under this license include **MTSS-GAN** [[code](https://github.co
 
 
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/3ZNzb8gi)
-[![Years Badge](https://badges.pufler.dev/years/firmai)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/firmai)](https://badges.pufler.dev)
 [![firmai](https://komarev.com/ghpvc/?username=firmai)](firmai.org)
 
