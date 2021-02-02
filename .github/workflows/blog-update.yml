@@ -30,7 +30,7 @@ jobs:
         with:
           url: 'https://theparlour.substack.com/feed'
           max_entry: 3
-          file: 'README.md'
+          file: 'TEMPLATE.md'
       - run: |
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
