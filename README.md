@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Derek, a software developer and machine learning researcher in management sciences and finance, currently working on
+I'm Derek, a software developer and machine learning researcher in management sciences and finance, currently working on:
 
  - Synthetic data generation, agent-based simulators, forecasting, and asset management using machine learning; with
  - Quantitative funds, multinational investment banks, financial market authorities, the office of national statistics, and other british government departments.
@@ -15,6 +15,10 @@ I'm Derek, a software developer and machine learning researcher in management sc
  
  
  <!-- feed start -->
+- Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
+- Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
+- Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://theparlour.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
+<!-- feed start -->
 - Jan 14 - [Planning the Perfect Adversarial Attack](https://theparlour.substack.com/p/adversarial-attack-in-finance)
 - Jan 08 - [History of Machine Learning in Finance and Economics](https://theparlour.substack.com/p/history-of-machine-learning-in-finance)
 - Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://theparlour.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
@@ -36,7 +40,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **1860** commits, opened **83** issues, received **12774** stars across **55** personal projects and contributed to **31** public repositories.
+Since joining Github, I pushed **1863** commits, opened **83** issues, received **12774** stars across **55** personal projects and contributed to **31** public repositories.
 
   </td>
   </table>
