@@ -30,14 +30,12 @@ I'm Derek, a software developer and machine learning researcher in management sc
 
 - 🧭 Founder of the [@firmai](https://github.com/firmai) open-source project
 
-- 📓 Associate member at [@oxford-man-institute](https://www.oxford-man.ox.ac.uk/who-we-are/people/) 
-
 - 🦌 GitAwards [top 100](http://git-awards.com/users?language=jupyter_notebook) for Jupyter Notebooks
 
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **1869** commits, opened **83** issues, received **12783** stars across **55** personal projects and contributed to **31** public repositories.
+Since joining Github, I pushed **1871** commits, opened **83** issues, received **12783** stars across **55** personal projects and contributed to **31** public repositories.
 
   </td>
   </table>
