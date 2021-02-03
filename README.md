@@ -30,7 +30,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
 
 - 🧭 Founder of the [@firmai](https://github.com/firmai) open-source project
 
-- 📓 Associate Member of [The Oxford Man Institute](https://www.oxford-man.ox.ac.uk/) at the University of Oxford
+- 📓 Associate Member of [OMI](https://www.oxford-man.ox.ac.uk/) at the University of Oxford
 
 - 🦌 GitAwards [top 100](http://git-awards.com/users?language=jupyter_notebook) for Jupyter Notebooks
 
