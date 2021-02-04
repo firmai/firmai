@@ -35,7 +35,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **1871** commits, opened **83** issues, received **12785** stars across **55** personal projects and contributed to **31** public repositories.
+Since joining Github, I pushed **1872** commits, opened **83** issues, received **12784** stars across **55** personal projects and contributed to **31** public repositories.
 
   </td>
   </table>
@@ -50,7 +50,6 @@ Everything listed here is available under [Unlicense](https://unlicense.org/)
 - **DataGene** (2,246 Downloads) — First package assessing dataset similarity (market data) [[code](https://github.com/firmai/datagene)][[report](https://ssrn.com/abstract=3619626)]
 - **MLAM** (7,409 Downloads) — First repository for machine learning in asset management (market data) [[code](https://github.com/firmai/machine-learning-asset-management)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952)]
 
-My research has been implemented by G-Research, Point72, HSBC, and smaller proprietory funds. 
 
 Other packages under this license include **MTSS-GAN** [[code](https://github.com/firmai/machine-learning-asset-management)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952)], the first multivariate conditional time series generator, **FairPut** [[code](https://github.com/firmai/ml-fairness-framework)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3619715)], a FAIR package using LightGBM, and **PandasVault** [[code](https://github.com/firmai/pandasvault)], an advanced Pandas repository.
 
