@@ -35,7 +35,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **1901** commits, opened **83** issues, received **12786** stars across **55** personal projects and contributed to **35** public repositories.
+Since joining Github, I pushed **1902** commits, opened **83** issues, received **12789** stars across **55** personal projects and contributed to **35** public repositories.
 
   </td>
   </table>
@@ -44,7 +44,7 @@ Since joining Github, I pushed **1901** commits, opened **83** issues, received 
 
 Everything listed here is available under [Unlicense](https://unlicense.org/)
 
-My research has been used by HSBC, Point72's Cubist Systematic, G-Research, and smaller proprietory funds. 
+My research has been used by HSBC, Point72's Cubist Systematic, G-Research, and smaller proprietory funds (see [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3160654)). 
 
 - **DeltaPy** (7,409 Downloads) — First tabular data augmentation package in Python (market data) [[code](https://github.com/firmai/deltapy)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3582219)]
 - **PandaPy** (14,163 Downloads) — Pandas alternative that mimics ‘Structs’ in the C Language (market data) [[code](https://github.com/firmai/pandapy)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3599639)]
