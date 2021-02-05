@@ -44,7 +44,7 @@ Since joining Github, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}*
 
 Everything listed here is available under [Unlicense](https://unlicense.org/)
 
-My research has been used by HSBC, Point72's Cubist Systematic, G-Research, and smaller proprietory funds. 
+My research has been used by HSBC, Point72's Cubist Systematic, G-Research, and smaller proprietory funds (see [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3160654)). 
 
 - **DeltaPy** (7,409 Downloads) — First tabular data augmentation package in Python (market data) [[code](https://github.com/firmai/deltapy)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3582219)]
 - **PandaPy** (14,163 Downloads) — Pandas alternative that mimics ‘Structs’ in the C Language (market data) [[code](https://github.com/firmai/pandapy)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3599639)]
