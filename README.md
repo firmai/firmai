@@ -30,12 +30,12 @@ I'm Derek, a software developer and machine learning researcher in management sc
 
 - 🧭 Founder of the [@firmai](https://github.com/firmai) open-source project
 
-- 🦌 GitAwards Global [top 100](http://git-awards.com/users?language=jupyter_notebook) for Jupyter Notebooks
+- 🦌 GitAwards [top 100](http://git-awards.com/users?language=jupyter_notebook) for Jupyter Notebooks
 
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **2063** commits, opened **84** issues, received **12819** stars across **55** personal projects and contributed to **37** public repositories.
+Since joining Github, I pushed **2065** commits, opened **84** issues, received **12821** stars across **55** personal projects and contributed to **37** public repositories.
 
   </td>
   </table>
