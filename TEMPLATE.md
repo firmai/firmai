@@ -26,9 +26,9 @@ I'm Derek, a software developer and machine learning researcher in management sc
   <tr>
   <td width="50%">
 
-- 👥 Researcher at [@alan-turing-institute](https://github.com/alan-turing-institute)
+- 👥 Researcher at the [@alan-turing-institute](https://github.com/alan-turing-institute)
 
-- 📓 Associate member at [@oxford-man-institute](https://www.oxford-man.ox.ac.uk/)
+- 📓 Associate member at the [@oxford-man-institute](https://www.oxford-man.ox.ac.uk/)
 
 - 🧭 Founder of the [@firmai](https://github.com/firmai) open-source project
 
