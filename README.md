@@ -37,7 +37,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **2073** commits, opened **103** issues, received **13472** stars across **55** personal projects and contributed to **27** public repositories.
+Since joining Github, I pushed **2075** commits, opened **105** issues, received **13477** stars across **55** personal projects and contributed to **28** public repositories.
 
   </td>
   </table>
