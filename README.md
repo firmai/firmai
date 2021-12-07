@@ -16,7 +16,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
 <!-- feed start -->
 - Jan 14 - [Planning the Perfect Adversarial Attack](https://mlquant.substack.com/p/adversarial-attack-in-finance)
 - Jan 08 - [History of Machine Learning in Finance and Economics](https://mlquant.substack.com/p/history-of-machine-learning-in-finance)
-- Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://mlquant.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
+- Jan 08 - [Machine Learning in Asset Management — Trading Strategies](https://mlquant.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
 <!-- feed end -->
 
   </td>
@@ -37,7 +37,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **2097** commits, opened **126** issues, received **14379** stars across **60** personal projects and contributed to **38** public repositories.
+Since joining Github, I pushed **2098** commits, opened **126** issues, received **14385** stars across **60** personal projects and contributed to **38** public repositories.
 
   </td>
   </table>
