@@ -14,9 +14,9 @@ I'm Derek, a software developer and machine learning researcher in management sc
   <td width="50%">  
  
 <!-- feed start -->
+- Dec 13 - [Tired of Quant Content](https://blog.ml-quant.com/p/tired-of-quant-content)
 - Jan 14 - [Planning the Perfect Adversarial Attack](https://blog.ml-quant.com/p/adversarial-attack-in-finance)
 - Jan 08 - [History of Machine Learning in Finance and Economics](https://blog.ml-quant.com/p/history-of-machine-learning-in-finance)
-- Jan 08 - [Machine Learning in Asset Management — Trading Strategies](https://blog.ml-quant.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
 <!-- feed end -->
 
   </td>
