@@ -3,7 +3,6 @@ I'm Derek, a software developer and machine learning researcher in management sc
 
  - Synthetic data generation, agent-based simulators, forecasting, and asset management using machine learning; with
  - Quantitative funds, multinational investment banks, financial market authorities, the office of national statistics, and other british government departments.
- - If you are interested in any of these topics, I aggregate research here to keep a pulse on ML & Quant finance [ml-quant.com](https://www.ml-quant.com/)
 
 <table width="100%"> 
   <tr>
@@ -15,9 +14,9 @@ I'm Derek, a software developer and machine learning researcher in management sc
   <td width="50%">  
  
 <!-- feed start -->
+- Dec 13 - [Tired of Quant Content](https://blog.ml-quant.com/p/tired-of-quant-content)
 - Jan 14 - [Planning the Perfect Adversarial Attack](https://blog.ml-quant.com/p/adversarial-attack-in-finance)
 - Jan 08 - [History of Machine Learning in Finance and Economics](https://blog.ml-quant.com/p/history-of-machine-learning-in-finance)
-- Jan 08 - [Machine Learning in Asset Management — Trading Strategies](https://blog.ml-quant.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
 <!-- feed end -->
 
   </td>
@@ -31,14 +30,14 @@ I'm Derek, a software developer and machine learning researcher in management sc
 
 - 📓 Associate member at the [@oxford-man-institute](https://www.oxford-man.ox.ac.uk/)
 
-- 🧭 Curator at [ML-Quant](https://www.ml-quant.com/) and Founder of the [@firmai](https://github.com/firmai) open-source project
+- 🧭 Founder of the [@firmai](https://github.com/firmai) open-source project
 
-- 🦌 GitAwards [top 100](http://159.100.250.9/users?language=jupyter_notebook) for Jupyter Notebooks
+- 🦌 GitAwards [top 100](http://git-awards.com/users?language=jupyter_notebook) for Jupyter Notebooks
 
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **2099** commits, opened **127** issues, received **14400** stars across **60** personal projects and contributed to **39** public repositories.
+Since joining Github, I pushed **2106** commits, opened **127** issues, received **14401** stars across **60** personal projects and contributed to **39** public repositories.
 
   </td>
   </table>
