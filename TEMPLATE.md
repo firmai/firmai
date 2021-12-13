@@ -34,7 +34,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
    
 - 👥 Curator for [ML-Quant](https://www.ml-quant.com/) resources 
 
-- 🦌 GitAwards [top 100](http://git-awards.com/users?language=jupyter_notebook) for Jupyter Notebooks
+- 🦌 GitAwards [top 100](http://159.100.250.9/users/search?login=firmai) for Jupyter Notebooks
 
   </td>
   <td width="50%">
