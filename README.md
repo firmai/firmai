@@ -28,7 +28,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
 
 - 👥 Researcher at the [@alan-turing-institute](https://github.com/alan-turing-institute)
 
-- 📓 Associate member the [@oxford-man-institute](https://www.oxford-man.ox.ac.uk/)
+- 📓 Associate member [@oxford-man-institute](https://www.oxford-man.ox.ac.uk/)
 
 - 🧭 Founder of the [@firmai](https://github.com/firmai) open-source project
    
@@ -39,7 +39,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **2110** commits, opened **127** issues, received **14401** stars across **60** personal projects and contributed to **39** public repositories.
+Since joining Github, I pushed **2111** commits, opened **127** issues, received **14401** stars across **60** personal projects and contributed to **39** public repositories.
 
   </td>
   </table>
