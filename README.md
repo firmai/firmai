@@ -3,6 +3,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
 
  - Synthetic data generation, agent-based simulators, forecasting, and asset management using machine learning; with
  - Quantitative funds, multinational investment banks, financial market authorities, the office of national statistics, and other british government departments.
+ - If you are interested in any of these topics, I aggregate research here to keep a pulse on ML & Quant finance [ml-quant.com](https://www.ml-quant.com/)
 
 <table width="100%"> 
   <tr>
