@@ -31,13 +31,15 @@ I'm Derek, a software developer and machine learning researcher in management sc
 - 📓 Associate member at the [@oxford-man-institute](https://www.oxford-man.ox.ac.uk/)
 
 - 🧭 Founder of the [@firmai](https://github.com/firmai) open-source project
+   
+- 👥 Curator for [ML-Quant](https://www.ml-quant.com/) resources 
 
 - 🦌 GitAwards [top 100](http://git-awards.com/users?language=jupyter_notebook) for Jupyter Notebooks
 
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **2107** commits, opened **127** issues, received **14401** stars across **60** personal projects and contributed to **39** public repositories.
+Since joining Github, I pushed **2108** commits, opened **127** issues, received **14401** stars across **60** personal projects and contributed to **39** public repositories.
 
   </td>
   </table>
