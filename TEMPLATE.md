@@ -31,6 +31,8 @@ I'm Derek, a software developer and machine learning researcher in management sc
 - 📓 Associate member at the [@oxford-man-institute](https://www.oxford-man.ox.ac.uk/)
 
 - 🧭 Founder of the [@firmai](https://github.com/firmai) open-source project
+   
+- 👥 Curator for [ML-Quant](https://www.ml-quant.com/) resources 
 
 - 🦌 GitAwards [top 100](http://git-awards.com/users?language=jupyter_notebook) for Jupyter Notebooks
 
