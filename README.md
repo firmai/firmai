@@ -16,9 +16,9 @@ I'm Derek, a software developer and machine learning researcher in management sc
   <td width="50%">  
  
 <!-- feed start -->
+- Dec 01 - [December 1st 2022 (ML-Quant)](https://blog.ml-quant.com/p/december-1st-2022-ml-quant)
 - Oct 31 - [November 1st 2022 (ML-Quant)](https://blog.ml-quant.com/p/november-1st-2022-ml-quant)
 - Oct 04 - [October 1st 2022 (ML Quant)](https://blog.ml-quant.com/p/october-1st-2022-ml-quant)
-- Aug 31 - [September 1st 2022 (ML Quant)](https://blog.ml-quant.com/p/september-1st-2022-ml-quant)
 <!-- feed end -->
 
   </td>
@@ -41,7 +41,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **2169** commits, opened **157** issues, received **16813** stars across **65** personal projects and contributed to **37** public repositories.
+Since joining Github, I pushed **2170** commits, opened **157** issues, received **16815** stars across **65** personal projects and contributed to **37** public repositories.
 
   </td>
   </table>
