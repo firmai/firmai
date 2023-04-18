@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Derek, a software developer and machine learning researcher in management sciences and finance, currently working on:
+I'm Derek, a professor in machine learning for finance at NYU.
 
  - If you are interested in the topics below have a look at ML-Quant resources https://www.ml-quant.com/
  - Synthetic data generation, agent-based simulators, forecasting, and asset management using machine learning; with
