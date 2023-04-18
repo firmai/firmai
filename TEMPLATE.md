@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm Derek, a professor in machine learning for finance at NYU. 
+I'm Derek, a professor at NYU teaching Machine Learning in Financial Engineering
 
-- My interests are in synthetic data generation, agent-based simulators, forecasting, and asset management using machine learning. 
-- I have worked on machine learning projects at HSBC, G-Research, Alan Turing Insitute, Oxford-MAN Institute and other large quantitative funds.
+- My interests are in synthetic data generation, agent-based simulators, and asset management using machine learning. 
+- I have worked on projects at HSBC, G-Research, Alan Turing Insitute, Oxford-MAN Institute and other large quantitative funds.
 
 
 <table width="100%"> 
