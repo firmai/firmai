@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Derek, a software developer and machine learning researcher in management sciences and finance, currently working on:
+I'm Derek, a professor in machine learning for finance at NYU.
 
  - If you are interested in the topics below have a look at ML-Quant resources https://www.ml-quant.com/
  - Synthetic data generation, agent-based simulators, forecasting, and asset management using machine learning; with
@@ -41,7 +41,7 @@ I'm Derek, a software developer and machine learning researcher in management sc
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **2178** commits, opened **165** issues, received **17542** stars across **65** personal projects and contributed to **35** public repositories.
+Since joining Github, I pushed **2179** commits, opened **167** issues, received **17543** stars across **65** personal projects and contributed to **36** public repositories.
 
   </td>
   </table>
