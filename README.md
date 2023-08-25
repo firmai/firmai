@@ -15,9 +15,9 @@ I'm Derek, a professor at NYU teaching Machine Learning in Financial Engineering
   <td width="50%">  
  
 <!-- feed start -->
+- Aug 24 - [Quant Letter: August 2023, Week 4](https://blog.ml-quant.com/p/quant-letter-august-2023-week-4)
 - Aug 17 - [Quant Letter: August 2023, Week 3](https://blog.ml-quant.com/p/quant-letter-august-2023-week-3)
 - Aug 09 - [Quant Letter: August 2023, Week 2](https://blog.ml-quant.com/p/quant-letter-august-2023-week-2)
-- Aug 02 - [Quant Letter: August 2023, Week 1](https://blog.ml-quant.com/p/quant-letter-august-2023-week-1)
 <!-- feed end -->
 
   </td>
@@ -40,7 +40,7 @@ I'm Derek, a professor at NYU teaching Machine Learning in Financial Engineering
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **3238** commits, opened **174** issues, received **18265** stars across **65** personal projects and contributed to **35** public repositories.
+Since joining Github, I pushed **3257** commits, opened **174** issues, received **18268** stars across **65** personal projects and contributed to **35** public repositories.
 
   </td>
   </table>
