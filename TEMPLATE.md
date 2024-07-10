@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Derek, a professor at NYU teaching Machine Learning in Financial Engineering, and founder of [ML-Quant](https://www.ml-quant.com/), [FirmAI](https://www.firmai.org/), and [Sov.ai](https://sov.ai/). 
+I'm Derek, a professor at NYU teaching Machine Learning in Financial Engineering, and founder of [Sov.ai](https://sov.ai/). 
 
 - My interests are in synthetic data generation, agent-based simulators, and asset management using machine learning. 
 - I have worked on projects at HSBC, G-Research, Alan Turing Insitute, Oxford-MAN Institute and other large quantitative funds.
@@ -31,7 +31,7 @@ I'm Derek, a professor at NYU teaching Machine Learning in Financial Engineering
 
 - 📓 Associate member [@oxford-man-institute](https://www.oxford-man.ox.ac.uk/)
 
-- 🧭 Founder of the [@firmai](https://github.com/firmai) open-source project
+- 🧭 Founder of the [@firmai]([https://github.com/firmai](https://www.firmai.org/)) open-source project. 
    
 - 👥 Curator for [ML-Quant](https://www.ml-quant.com/) resources 
 
