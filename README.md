@@ -3,7 +3,7 @@ I'm Derek, a professor at NYU, teaching Machine Learning in Financial Engineerin
 
 
 - Previously a researcher at University of Cambridge, Oxford University, and the Alan Turing Institute.
-- Worked with large quantitative firms in asset management and alpha discovery using machine learning. 
+- Work with large quantitative firms in asset management and alpha discovery using machine learning. 
 
 
 <table width="100%"> 
@@ -41,7 +41,7 @@ I'm Derek, a professor at NYU, teaching Machine Learning in Financial Engineerin
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **9685** commits, opened **209** issues, received **21738** stars across **68** personal projects and contributed to **41** public repositories.
+Since joining Github, I pushed **9686** commits, opened **209** issues, received **21738** stars across **68** personal projects and contributed to **41** public repositories.
 
   </td>
   </table>
