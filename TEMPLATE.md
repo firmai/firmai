@@ -3,7 +3,7 @@ I'm Derek, a professor at NYU, teaching Machine Learning in Financial Engineerin
 
 
 - Previously a researcher at University of Cambridge, Oxford University, and the Alan Turing Institute.
-- My expertise lies in synthetic data generation, agent-based simulators, and machine learning for asset management.
+- Worked with large quantitative firms in asset management and alpha discovery using machine learning. 
 
 
 <table width="100%"> 
