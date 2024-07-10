@@ -3,7 +3,7 @@ I'm Derek, a professor at NYU, teaching Machine Learning in Financial Engineerin
 
 
 - Previously a researcher at University of Cambridge, Oxford University, and the Alan Turing Institute.
-- Worked with quant firms like Point 72 (trading strategy), HSBC (synthetic data), and G-Research (crypto competition).
+- Consulted with firms like Point 72 (trading strategy), HSBC (synthetic data), and G-Research (crypto competition).
 
 My expertise lies in synthetic data generation, agent-based simulators, and machine learning for asset management.
 
