@@ -31,7 +31,7 @@ I'm Derek, a professor at NYU teaching Machine Learning in Financial Engineering
 
 - 📓 Associate member [@oxford-man-institute](https://www.oxford-man.ox.ac.uk/)
 
-- 🧭 Founder of the [@firmai]([https://github.com/firmai](https://www.firmai.org/)) open-source project. 
+- 🧭 Founder of the [@firmai](https://www.firmai.org/) open-source project. 
    
 - 👥 Curator for [ML-Quant](https://www.ml-quant.com/) resources 
 
@@ -40,7 +40,7 @@ I'm Derek, a professor at NYU teaching Machine Learning in Financial Engineering
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **9658** commits, opened **209** issues, received **21738** stars across **68** personal projects and contributed to **41** public repositories.
+Since joining Github, I pushed **9659** commits, opened **209** issues, received **21738** stars across **68** personal projects and contributed to **41** public repositories.
 
   </td>
   </table>
