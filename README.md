@@ -33,14 +33,14 @@ I'm Derek, a professor at NYU teaching Machine Learning in Financial Engineering
 
 - 🧭 Founder of the [@firmai](https://www.firmai.org/) open-source project. 
    
-- 👥 Curator for [ML-Quant](https://www.ml-quant.com/) resources 
+- 👥 Curator for [ML-Quant](https://www.ml-quant.com/) resources. 
 
-- 🦌 GitAwards [top 100](http://159.100.250.9/users/search?login=firmai) for Jupyter Notebooks
+- 🦌 GitStars [contributor rank](https://gitstar-ranking.com/firmai) of 658 out of 104,530,333 users.
 
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **9659** commits, opened **209** issues, received **21738** stars across **68** personal projects and contributed to **41** public repositories.
+Since joining Github, I pushed **9660** commits, opened **209** issues, received **21738** stars across **68** personal projects and contributed to **41** public repositories.
 
   </td>
   </table>
