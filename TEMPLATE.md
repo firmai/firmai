@@ -2,7 +2,8 @@
 I'm Derek, a professor at NYU, teaching Machine Learning in Financial Engineering, and the founder of [Sov.ai](https://sov.ai/). 
 
 - My interests are in synthetic data generation, agent-based simulators, and asset management using machine learning. 
-- I have worked on projects at HSBC, Alan Turing Insitute, Oxford-MAN Institute and other large quantitative funds.
+- I have worked on projects at HSBC, Cubist, G-Research, and other large quantitative funds.
+- And was a researcher at the Alan Turing Insitute, University of Cambridge, and the Oxford-MAN Institute of Quant Finance.
 
 
 <table width="100%"> 
