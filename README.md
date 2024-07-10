@@ -3,7 +3,7 @@ I'm Derek, a professor at NYU, teaching Machine Learning in Financial Engineerin
 
 
 - Previously a researcher at University of Cambridge, Oxford University, and the Alan Turing Institute.
-- Consulted with firms like Point 72 (trading strategy), HSBC (synthetic data), and G-Research (crypto competition).
+- Consulted with firms like  HSBC _(synthetic data)_, and G-Research _(crypto competition)_.
 
 My expertise lies in synthetic data generation, agent-based simulators, and machine learning for asset management.
 
@@ -43,7 +43,7 @@ My expertise lies in synthetic data generation, agent-based simulators, and mach
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **9682** commits, opened **209** issues, received **21738** stars across **68** personal projects and contributed to **41** public repositories.
+Since joining Github, I pushed **9683** commits, opened **209** issues, received **21738** stars across **68** personal projects and contributed to **41** public repositories.
 
   </td>
   </table>
