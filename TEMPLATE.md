@@ -35,7 +35,7 @@ I'm Derek, a professor at NYU teaching Machine Learning in Financial Engineering
    
 - 👥 Curator for [ML-Quant](https://www.ml-quant.com/) resources. 
 
-- 🦌 GitStars [rank](https://gitstar-ranking.com/firmai) of 658 from 104,530,383 users.
+- 🦌 GitStars [rank](https://gitstar-ranking.com/firmai) of 658 from 104,530,383.
 
   </td>
   <td width="50%">
