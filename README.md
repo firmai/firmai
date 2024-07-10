@@ -2,8 +2,8 @@
 I'm Derek, a professor at NYU, teaching Machine Learning in Financial Engineering, and the founder of [Sov.ai](https://sov.ai/). 
 
 - My expertise lies in synthetic data generation, agent-based simulators, and machine learning for asset management.
-- I've contributed to projects at prominent quantitative funds including HSBC, Point72 Cubist, and G-Research.
-- My research background includes positions at the University of Cambridge, Oxford-Man Institute of Quantitative Finance, and Alan Turing Institute.
+- I've contributed to projects at HSBC, Point72 Cubist, and G-Research.
+- And have held positions at the University of Cambridge, Oxford University, and the Alan Turing Institute.
 
 
 <table width="100%"> 
@@ -41,7 +41,7 @@ I'm Derek, a professor at NYU, teaching Machine Learning in Financial Engineerin
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **9669** commits, opened **209** issues, received **21738** stars across **68** personal projects and contributed to **41** public repositories.
+Since joining Github, I pushed **9670** commits, opened **209** issues, received **21738** stars across **68** personal projects and contributed to **41** public repositories.
 
   </td>
   </table>
