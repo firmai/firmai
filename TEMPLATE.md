@@ -3,7 +3,7 @@ I'm Derek, a professor at NYU, teaching Machine Learning in Financial Engineerin
 
 
 - Previously a researcher at University of Cambridge, Oxford University, and the Alan Turing Institute.
-- Develop tools for quantitative funds to optimize asset management and the alpha discovery process.
+- Develop tools for large funds to optimize asset management and the alpha discovery process.
 
 
 <table width="100%"> 
