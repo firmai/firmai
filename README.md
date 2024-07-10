@@ -3,7 +3,7 @@ I'm Derek, a professor at NYU, teaching Machine Learning in Financial Engineerin
 
 - My interests are in synthetic data generation, agent-based simulators, and asset management using machine learning. 
 - I have worked on projects at HSBC, Cubist, G-Research, and other large quantitative funds.
-- And held research positions at the Alan Turing Insitute, Oxford-Man Institute of Quantitative Finance, and the University of Cambridge.
+- Held research positions at the Alan Turing Insitute, Oxford-Man Institute of Quantitative Finance, and the University of Cambridge.
 
 
 <table width="100%"> 
@@ -41,7 +41,7 @@ I'm Derek, a professor at NYU, teaching Machine Learning in Financial Engineerin
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **9666** commits, opened **209** issues, received **21738** stars across **68** personal projects and contributed to **41** public repositories.
+Since joining Github, I pushed **9667** commits, opened **209** issues, received **21738** stars across **68** personal projects and contributed to **41** public repositories.
 
   </td>
   </table>
