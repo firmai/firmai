@@ -41,7 +41,7 @@ I'm Derek, a professor at NYU, teaching Machine Learning in Financial Engineerin
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **22029** commits, opened **251** issues, received **24146** stars across **79** personal projects and contributed to **37** public repositories.
+Since joining Github, I pushed **22029** commits, opened **251** issues, received **24148** stars across **79** personal projects and contributed to **36** public repositories.
 
   </td>
   </table>
