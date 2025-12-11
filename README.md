@@ -41,7 +41,7 @@ I'm Derek, a professor at NYU, teaching Machine Learning in Financial Engineerin
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **25723** commits, opened **256** issues, received **24483** stars across **89** personal projects and contributed to **32** public repositories.
+Since joining Github, I pushed **25724** commits, opened **256** issues, received **24484** stars across **89** personal projects and contributed to **32** public repositories.
 
   </td>
   </table>
@@ -51,6 +51,8 @@ Since joining Github, I pushed **25723** commits, opened **256** issues, receive
 Everything listed here is available under [Unlicense](https://unlicense.org/)
 
 My research has been used by large institutional banks and quantitative hedge funds (see [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3160654)). 
+
+Firmai - Open  Source packages:
 
 - **DeltaPy** (30,409 Downloads) — First tabular data augmentation package in Python (market data) [[code](https://github.com/firmai/deltapy)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3582219)]
 - **PandaPy** (43,163 Downloads) — Pandas alternative that mimics ‘Structs’ in the C Language (market data) [[code](https://github.com/firmai/pandapy)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3599639)]
