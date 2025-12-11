@@ -52,6 +52,8 @@ Everything listed here is available under [Unlicense](https://unlicense.org/)
 
 My research has been used by large institutional banks and quantitative hedge funds (see [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3160654)). 
 
+Firmai - Open  Source packages:
+
 - **DeltaPy** (30,409 Downloads) — First tabular data augmentation package in Python (market data) [[code](https://github.com/firmai/deltapy)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3582219)]
 - **PandaPy** (43,163 Downloads) — Pandas alternative that mimics ‘Structs’ in the C Language (market data) [[code](https://github.com/firmai/pandapy)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3599639)]
 - **AtsPy** (113,147 Downloads) — First automated time series package in Python (alternative data) [[code](https://github.com/firmai/atspy)][[report](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631)]
