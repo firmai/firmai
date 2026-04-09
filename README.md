@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Derek, a professor at NYU, teaching Machine Learning in Financial Engineering, and the founder of [Sov.ai](https://sov.ai/). 
+I'm Derek, a professor at NYU, teaching Machine Learning in Financial Engineering, and the founder of [Sov.ai](https://sov.ai/) and [Vedex.ai](https://vedex.ai/). 
 
 
 - Previously a researcher at University of Cambridge, Oxford University, and the Alan Turing Institute.
@@ -41,7 +41,7 @@ I'm Derek, a professor at NYU, teaching Machine Learning in Financial Engineerin
   </td>
   <td width="50%">
   
-Since joining Github, I pushed **28424** commits, opened **256** issues, received **24782** stars across **89** personal projects and contributed to **31** public repositories.
+Since joining Github, I pushed **28431** commits, opened **256** issues, received **24782** stars across **89** personal projects and contributed to **31** public repositories.
 
   </td>
   </table>
