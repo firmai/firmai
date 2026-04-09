@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Derek, a professor at NYU, teaching Machine Learning in Financial Engineering, and the founder of [Sov.ai](https://sov.ai/). 
+I'm Derek, a professor at NYU, teaching Machine Learning in Financial Engineering, and the founder of [Sov.ai](https://sov.ai/) and [Vedex.ai](https://vedex.ai/). 
 
 
 - Previously a researcher at University of Cambridge, Oxford University, and the Alan Turing Institute.
