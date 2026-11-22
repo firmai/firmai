@@ -16,9 +16,9 @@ I'm Derek, a professor at NYU, teaching Machine Learning in Financial Engineerin
   <td width="50%">  
  
 <!-- feed start -->
-- Jan 09 - [Quant Letter: January 2024, Week-2](https://blog.ml-quant.com/p/quant-letter-january-2024-week-2)
-- Jan 03 - [Quant Letter: January 2024, Week-1](https://blog.ml-quant.com/p/quant-letter-january-2024-week-1)
-- Dec 20 - [Quant Letter: December 2023, Week-3](https://blog.ml-quant.com/p/quant-letter-december-2023-week-3)
+- Oct 23 - [Quant Letter: Oct 2026, Week-3](https://blog.ml-quant.com/p/quant-letter-oct-2026-week-3)
+- Sep 25 - [Quant Letter: Sep 2026, Week-3](https://blog.ml-quant.com/p/quant-letter-sep-2026-week-3)
+- Jun 19 - [Quant Letter: June 2026, Week-2](https://blog.ml-quant.com/p/quant-letter-june-2026-week-2)
 <!-- feed end -->
 
   </td>
